@@ -4,10 +4,12 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Kevin Acosta Vittor
+- Vivo en Castelar
 
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+
+- Me encantan los videojuegos y me quiero dedicar a desarrollarlos. Tengo varias ideas que me gustaría experimentar. Eso es todo.
+![Logo UNAHUR](./heavy.png)
