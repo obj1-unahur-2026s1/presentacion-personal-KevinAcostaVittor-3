@@ -12,4 +12,5 @@
 - Este es mi primer contacto con github
 
 - Me encantan los videojuegos y me quiero dedicar a desarrollarlos. Tengo varias ideas que me gustaría experimentar. Eso es todo.
+
 ![Logo UNAHUR](./heavy.png)
